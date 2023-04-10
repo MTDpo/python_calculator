@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-clear-symbol-60.png</file>
+    <file>keyboard_backspace_FILL1_wght400_GRAD200_opsz48.png</file>
+    <file>backspace_FILL1_wght400_GRAD0_opsz48.png</file>
+    <file>calculate_FILL1_wght400_GRAD0_opsz48.png</file>
+  </qresource>
+</RCC>
